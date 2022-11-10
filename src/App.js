@@ -3,7 +3,7 @@ import { useState } from "react";
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import { About, Profile, } from "./components/Main";
+import { About, Profile, Contact, Resume } from "./components/Main";
 import Footer from "./components/Footer";
 
 function App() {
@@ -18,6 +18,9 @@ function App() {
         <Routes>
           <Route path="/React-About" element={<About />} />
           <Route path="/React-Profile" element={<Profile />} />
+          <Route path="/Contact" element={<Contact />} />
+          <Route path="/Resume" element={<Resume />} />
+
         </Routes>
       </BrowserRouter>
       <Footer />
