@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-profile/static/css/main.266771de.css",
+    "main.js": "/react-profile/static/js/main.6d474527.js",
+    "static/js/787.5c467991.chunk.js": "/react-profile/static/js/787.5c467991.chunk.js",
+    "static/media/findmythrone.png": "/react-profile/static/media/findmythrone.715ba5f02623b464bd59.png",
+    "static/media/workday.png": "/react-profile/static/media/workday.3124afff2b10bdb88b15.png",
+    "static/media/passwordgen.png": "/react-profile/static/media/passwordgen.eac8878c8631579b28e1.png",
+    "static/media/notetaker.png": "/react-profile/static/media/notetaker.9f7d0249b08772b3b33d.png",
+    "index.html": "/react-profile/index.html",
+    "main.266771de.css.map": "/react-profile/static/css/main.266771de.css.map",
+    "main.6d474527.js.map": "/react-profile/static/js/main.6d474527.js.map",
+    "787.5c467991.chunk.js.map": "/react-profile/static/js/787.5c467991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.266771de.css",
+    "static/js/main.6d474527.js"
+  ]
+}
